@@ -6,7 +6,7 @@ Hipótesis:
 2. Los lunes por la mañana, los habitantes de Springfield y Shelbyville escuchan diferentes géneros. Lo mismo ocurre con los viernes por la noche. 
 3. Los oyentes de Springfield y Shelbyville tienen preferencias distintas. En Springfield prefieren el pop mientras que en Shelbyville hay más aficionados al rap.
 
-## Data
+## Descripción de los datos
 
 De acuerdo con la documentación:
 - `'userID'` — identificador del usuario
