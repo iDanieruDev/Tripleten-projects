@@ -26,6 +26,7 @@ El informe se tendrá en cuenta al crear una **puntuación de crédito** para un
 
 - pandas
 - matplotlib.pyplot
+- numpy
 
 # Conclusión general 
 
